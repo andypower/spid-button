@@ -1,6 +1,6 @@
 ## Licenze
 
-Il font Titillium in `css/spid-sp-access-button.min.css` è di [Accademia di Belle Arti Urbino] (http://www.campivisivi.net/titillium/) con licenza [SIL Open Font License 1.1]
+Il font Titillium in `css/spid-button.min.css` è di [Accademia di Belle Arti Urbino] (http://www.campivisivi.net/titillium/) con licenza [SIL Open Font License 1.1]
 
 ## Il resto del progetto è di pubblico dominio
 
